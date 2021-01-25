@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>SI_DELUSI</title>
+        <title>Laravel</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -48,10 +48,6 @@
                 font-size: 84px;
             }
 
-            .subtitle {
-                font-size: 36px;
-            }
-
             .links > a {
                 color: #636b6f;
                 padding: 0 25px;
@@ -64,9 +60,6 @@
 
             .m-b-md {
                 margin-bottom: 30px;
-            }
-            table, th, td {
-                border: 1px solid black;
             }
         </style>
     </head>
@@ -88,64 +81,18 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    SI_DELUSI
+                    Laravel
                 </div>
-                <div class="subtitle m-b-md">
-                    SISTEM INFORMASI DETEKSI POLUSI
-                </div>
-                <hr>
 
                 <div class="links">
+                    <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://blog.laravel.com">Blog</a>
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/DarkBoyOKI/si_delusi">GitHub</a>
-                </div>
-                <hr>
-                <table style="width:100%">
-                    <tr>
-                        <th>Firstname</th>
-                        <th>Lastname</th>
-                        <th>Age</th>
-                    </tr>
-                    <tr>
-                        <td>Jill</td>
-                        <td>Smith</td>
-                        <td>50</td>
-                    </tr>
-                    <tr>
-                        <td>Eve</td>
-                        <td>Jackson</td>
-                        <td>94</td>
-                    </tr>
-                </table>
-                <div class="col s12 m12">
-                    <h4>Keluhan Konsumen</h4><hr>
-            
-                      <table class="flex-center">
-                        <thead>
-                            <tr style="flex-center">
-                              <th>Waktu</th>
-                              <th>PPM Karbon Monoksida</th>                                 
-                              <th>Status</th>
-                            </tr>
-                        </thead>
-                        <tbody>                        
-                          <td>nigga</td>                    
-                          <td></td>                    
-                          <td>nigga</td>                    
-                          <td></td>                    
-                          <td>nigga</td>                    
-                          <td></td>                    
-                          <td></td>                    
-                          <td></td>                    
-                          <td></td>
-                        </tbody>
-                    </table>
-            
+                    <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
         </div>
